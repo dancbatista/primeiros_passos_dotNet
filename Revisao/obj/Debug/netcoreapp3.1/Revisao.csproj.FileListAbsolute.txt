@@ -1,0 +1,12 @@
+/Users/danielcleberbatista/Desktop/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/Users/danielcleberbatista/Desktop/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/Users/danielcleberbatista/Desktop/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/Users/danielcleberbatista/Desktop/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/Users/danielcleberbatista/Desktop/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.csproj.CoreCompileInputs.cache
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
+/Users/danielcleberbatista/Desktop/Revisao/obj/Debug/netcoreapp3.1/Revisao.genruntimeconfig.cache
