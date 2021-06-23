@@ -1,1 +1,1 @@
-Desenvolvimento de uma aplicação simples para cadastro de alunos. O nome de cada aluno e suas respectivas notas sao salvas em um array. O nome dos alunos e exibido acompanhado de sua nota e a média geral das notas e calculada.
+Desenvolvimento de uma aplicação simples para o cadastro de alunos. O nome de cada aluno e sua respectiva nota são salvos em um array. O nome do aluno é exibido acompanhado de sua nota e a média geral das notas é calculada.
